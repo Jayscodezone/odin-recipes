@@ -1,1 +1,2 @@
 # odin-recipes
+This is a brief introduction of how to create a recipe website. It will be a basic website and not a MVP . My website will contain an index.html page that have links to 3 different recipes. I will be using HTML 5 to design this website and then later on revisit and then add CSS for styling 
